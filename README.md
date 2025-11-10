@@ -3,7 +3,8 @@
 🌱 I'm currently learning how to code\
 🔭 Always open to trying new things
 
-I work on a MacBook Air, and my one of my current interests is machine learning!
+I work on a MacBook Air, and my one of my current interests is machine learning!\
+See you guys around! 🙏
 
 <!--
 **gummyrex/gummyrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
