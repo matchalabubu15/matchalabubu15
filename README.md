@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi there! 👋
+
+🌱 I'm currently learning how to code\
+🔭 Always open to trying new things
+
+I work on a MacBook Air, and my one of my current interests is machine learning!
 
 <!--
-**matchalabubu15/matchalabubu15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gummyrex/gummyrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
